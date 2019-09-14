@@ -1,0 +1,1 @@
+# AdManagerForGoogleAdMobSDK-UnityEngine
